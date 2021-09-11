@@ -2,7 +2,7 @@
 
 
 
-<h3>Open-Redirection-Dorks</h3>
+<h3><u>Open-Redirection-Dorks</u></h3>
 
 
 /{payload}
@@ -52,6 +52,6 @@ cgi-bin/redirect.cgi?{}
 ?checkout_url=
 
 
-<h3>parameters</h3>
+<h3><u>parameters</u></h3>
 
 dest, redirect, uri, path, continue, url, window, to, out, view, dir, show, navigation, Open, url, file, val, validate, domain, callback, return, page, feed, host, port, next, data, reference, site, html 
