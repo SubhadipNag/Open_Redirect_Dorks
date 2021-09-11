@@ -7,28 +7,50 @@
 
 /{payload}
 
-?next=
+?next
+
 ?url=
+
 ?target=
+
 ?rurl=
+
 ?dest=
+
 ?destination=
+
 ?redir=
+
 redirect_uri=
+
 ?redirect_url=
+
 ?redirect=
+
 /redirect/
+
 cgi-bin/redirect.cgi?{}
+
 /out/
+
 /out?
+
 ?view=
+
 /login?to=
+
 ?image_url=
+
 ?go=
+
 ?return=
+
 ?returnTo=
+
 ?return_to=
+
 ?checkout_url=
+
 
 <h3>parameters</h3>
 
